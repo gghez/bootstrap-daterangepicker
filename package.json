@@ -16,6 +16,9 @@
     "email": "dan@dangrossman.info",
     "url": "http://www.dangrossman.info"
   },
+  "contributors": [
+    "Gregory Ghez <gregory.ghez@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dangrossman/bootstrap-daterangepicker/issues"
